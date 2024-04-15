@@ -1,0 +1,51 @@
+.main {
+  background-color: rgba(0, 0, 255, 0.575);
+  width: 50vw;
+  color: white;
+  margin-top: 6%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 12px;
+  padding: 5%;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: large;
+}
+.btn {
+  width: 100px;
+  height: 30px;
+  pad: 10px;
+  border-radius: 5px;
+  border: none;
+}
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+}
+.inputForm {
+  padding: 10px;
+  border: none;
+  margin-bottom: 15px;
+  margin-top: 8px;
+}
+label {
+  margin-top: 10px;
+  font-size: large;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.btnWrapper {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+}
+.Card {
+  background-color: white;
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 10px;
+  color: black;
+}
